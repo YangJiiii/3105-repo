@@ -1,6 +1,7 @@
 {
   "schemaVersion": 1,
   "sources": [
-    "repositories/demo/repo.json"
+    "repositories/demo/repo.json",
+    "https://raw.githubusercontent.com/NgynKhoa/3105-repo/main/repositories/demo/repo.json"
   ]
 }
