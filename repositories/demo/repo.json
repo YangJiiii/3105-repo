@@ -69,7 +69,6 @@
       ],
       "download": "packages/CuteCat.3105pass",
       "sha256": "8abf224d7009519152c08c7bec86f97fed159d81ae98ef2f2ee4de3900a4bdce",
-      "size": 34303,
       "supportedOS": [
         {
           "minimum": "17.0",
