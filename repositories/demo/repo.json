@@ -3,6 +3,7 @@
   "identifier": "com.yangjiii.3105",
   "name": "3105 Repository",
   "description": "Nguồn chính thức cho hệ thống repository của 3105.",
+  "accentColor": "#ca9ee6",
   "icon": "assets/repository-icon.png",
   "packages": [
     {
