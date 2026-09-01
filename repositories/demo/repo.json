@@ -6,51 +6,6 @@
   "icon": "assets/repository-icon.png",
   "packages": [
     {
-      "identifier": "capcut-pro",
-      "name": "Capcut Pro",
-      "author": "YangJiii",
-      "version": "1.0.0",
-      "summary": "Share Freee.",
-      "description": "Nâng CapCut lên Pro.\nVui lòng không đăng nhập tài khoản CapCut.",
-      "category": "Testing",
-      "tags": [
-        "Application"
-      ],
-      "publishedAt": "2026-08-21T10:00:00Z",
-      "icon": "assets/capcut-pro.png",
-      "screenshots": [
-        "assets/preview-light.png",
-        "assets/preview-dark.png"
-      ],
-      "download": "packages/CapcutPro.3105",
-      "sha256": "79d17fb95fbe667621793442e916e12cdfb48c4e136335e850144e4273fc8430",
-      "size": 34303,
-      "password": "3105",
-      "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
-      ],
-      "changelog": "Nguồn thử nghiệm đầu tiên với mô tả và gallery ảnh preview.",
-      "featured": true,
-      "isPrivate": false
-    },
-    {
       "identifier": "cute-cat-dialer",
       "name": "Cute Cat Dialer",
       "author": "ABC",
